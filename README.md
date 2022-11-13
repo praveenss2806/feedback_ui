@@ -1,2 +1,2 @@
 # feedback_ui
-A simple feedback website built using react
+A simple feedback website built using react framework
